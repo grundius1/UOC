@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac4.AllianceTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-05-07T08:46:37" hostname="DESKTOP-SGUIU9S" time="0.051">
+  <properties/>
+  <testcase name="testAlliance()" classname="edu.uoc.pac4.AllianceTest" time="0.026"/>
+  <testcase name="Sanity - Methods definition" classname="edu.uoc.pac4.AllianceTest" time="0.002"/>
+  <testcase name="testEat()" classname="edu.uoc.pac4.AllianceTest" time="0.002"/>
+  <testcase name="testCount()" classname="edu.uoc.pac4.AllianceTest" time="0.001"/>
+  <testcase name="testToString()" classname="edu.uoc.pac4.AllianceTest" time="0.013"/>
+  <testcase name="testMainCity()" classname="edu.uoc.pac4.AllianceTest" time="0.001"/>
+  <testcase name="testWarsong()" classname="edu.uoc.pac4.AllianceTest" time="0.001"/>
+  <testcase name="testEatException()" classname="edu.uoc.pac4.AllianceTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

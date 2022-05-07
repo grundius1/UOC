@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac4.MageTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-05-07T08:46:37" hostname="DESKTOP-SGUIU9S" time="0.011">
+  <properties/>
+  <testcase name="Sanity - Methods definition" classname="edu.uoc.pac4.MageTest" time="0.002"/>
+  <testcase name="testEat()" classname="edu.uoc.pac4.MageTest" time="0.001"/>
+  <testcase name="testMage()" classname="edu.uoc.pac4.MageTest" time="0.001"/>
+  <testcase name="testDecIncMana()" classname="edu.uoc.pac4.MageTest" time="0.001"/>
+  <testcase name="testGetMana()" classname="edu.uoc.pac4.MageTest" time="0.001"/>
+  <testcase name="testSetMana()" classname="edu.uoc.pac4.MageTest" time="0.001"/>
+  <testcase name="testGetAttackPower()" classname="edu.uoc.pac4.MageTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

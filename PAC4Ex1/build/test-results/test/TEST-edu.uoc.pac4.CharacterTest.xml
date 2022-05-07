@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac4.CharacterTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2022-05-07T08:27:35" hostname="DESKTOP-SGUIU9S" time="0.029">
+  <properties/>
+  <testcase name="testGetLevel()" classname="edu.uoc.pac4.CharacterTest" time="0.001"/>
+  <testcase name="Sanity - Methods definition" classname="edu.uoc.pac4.CharacterTest" time="0.002"/>
+  <testcase name="testGetStamina()" classname="edu.uoc.pac4.CharacterTest" time="0.001"/>
+  <testcase name="testResurrect()" classname="edu.uoc.pac4.CharacterTest" time="0.002"/>
+  <testcase name="testId()" classname="edu.uoc.pac4.CharacterTest" time="0.002"/>
+  <testcase name="testGetName()" classname="edu.uoc.pac4.CharacterTest" time="0.002"/>
+  <testcase name="testSetStamina()" classname="edu.uoc.pac4.CharacterTest" time="0.001"/>
+  <testcase name="testIncDecHealth()" classname="edu.uoc.pac4.CharacterTest" time="0.001"/>
+  <testcase name="testSetGender()" classname="edu.uoc.pac4.CharacterTest" time="0.002"/>
+  <testcase name="testSetHealth()" classname="edu.uoc.pac4.CharacterTest" time="0.001"/>
+  <testcase name="testGetGender()" classname="edu.uoc.pac4.CharacterTest" time="0.001"/>
+  <testcase name="testGetHealth()" classname="edu.uoc.pac4.CharacterTest" time="0.001"/>
+  <testcase name="testIsDead()" classname="edu.uoc.pac4.CharacterTest" time="0.001"/>
+  <testcase name="testSetName()" classname="edu.uoc.pac4.CharacterTest" time="0.003"/>
+  <testcase name="testSetLevel()" classname="edu.uoc.pac4.CharacterTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

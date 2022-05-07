@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac4.GroupTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-05-07T09:27:38" hostname="DESKTOP-SGUIU9S" time="0.059">
+  <properties/>
+  <testcase name="testConstructor()" classname="edu.uoc.pac4.GroupTest" time="0.018"/>
+  <testcase name="testSizeException()" classname="edu.uoc.pac4.GroupTest" time="0.003"/>
+  <testcase name="testAddCharacter1()" classname="edu.uoc.pac4.GroupTest" time="0.002"/>
+  <testcase name="testAddCharacter2()" classname="edu.uoc.pac4.GroupTest" time="0.002"/>
+  <testcase name="testAddCharacter7()" classname="edu.uoc.pac4.GroupTest" time="0.001"/>
+  <testcase name="testExists1()" classname="edu.uoc.pac4.GroupTest" time="0.002"/>
+  <testcase name="testEmpty1()" classname="edu.uoc.pac4.GroupTest" time="0.002"/>
+  <testcase name="testRemove()" classname="edu.uoc.pac4.GroupTest" time="0.003"/>
+  <testcase name="testToString()" classname="edu.uoc.pac4.GroupTest" time="0.015"/>
+  <testcase name="testRemoveAll()" classname="edu.uoc.pac4.GroupTest" time="0.001"/>
+  <testcase name="testExists2()" classname="edu.uoc.pac4.GroupTest" time="0.002"/>
+  <testcase name="testEmpty2()" classname="edu.uoc.pac4.GroupTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

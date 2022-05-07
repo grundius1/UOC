@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac4.FoodTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-05-07T08:46:37" hostname="DESKTOP-SGUIU9S" time="0.011">
+  <properties/>
+  <testcase name="testFoodException()" classname="edu.uoc.pac4.FoodTest" time="0.002"/>
+  <testcase name="testGetLevel()" classname="edu.uoc.pac4.FoodTest" time="0.001"/>
+  <testcase name="Sanity - Methods definition" classname="edu.uoc.pac4.FoodTest" time="0.001"/>
+  <testcase name="testToString()" classname="edu.uoc.pac4.FoodTest" time="0.004"/>
+  <testcase name="testGetName()" classname="edu.uoc.pac4.FoodTest" time="0.001"/>
+  <testcase name="testGetEnergy()" classname="edu.uoc.pac4.FoodTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
